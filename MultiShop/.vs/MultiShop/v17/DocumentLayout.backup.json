@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3639D2E-D938-4304-B1F5-4759537D8B85}|src\\Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|c:\\users\\admin\\desktop\\multishop-microservices\\multishop\\src\\services\\catalog\\multishop.catalog\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3639D2E-D938-4304-B1F5-4759537D8B85}|src\\Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|solutionrelative:src\\services\\catalog\\multishop.catalog\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3639D2E-D938-4304-B1F5-4759537D8B85}|src\\Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|c:\\users\\admin\\desktop\\multishop-microservices\\multishop\\src\\services\\catalog\\multishop.catalog\\controllers\\productimagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3639D2E-D938-4304-B1F5-4759537D8B85}|src\\Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|solutionrelative:src\\services\\catalog\\multishop.catalog\\controllers\\productimagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3639D2E-D938-4304-B1F5-4759537D8B85}|src\\Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|c:\\users\\admin\\desktop\\multishop-microservices\\multishop\\src\\services\\catalog\\multishop.catalog\\controllers\\productdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3639D2E-D938-4304-B1F5-4759537D8B85}|src\\Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|solutionrelative:src\\services\\catalog\\multishop.catalog\\controllers\\productdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3639D2E-D938-4304-B1F5-4759537D8B85}|src\\Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|c:\\users\\admin\\desktop\\multishop-microservices\\multishop\\src\\services\\catalog\\multishop.catalog\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3639D2E-D938-4304-B1F5-4759537D8B85}|src\\Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|solutionrelative:src\\services\\catalog\\multishop.catalog\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3639D2E-D938-4304-B1F5-4759537D8B85}|src\\Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|c:\\users\\admin\\desktop\\multishop-microservices\\multishop\\src\\services\\catalog\\multishop.catalog\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C3639D2E-D938-4304-B1F5-4759537D8B85}|src\\Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|solutionrelative:src\\services\\catalog\\multishop.catalog\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3639D2E-D938-4304-B1F5-4759537D8B85}|src\\Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|c:\\users\\admin\\desktop\\multishop-microservices\\multishop\\src\\services\\catalog\\multishop.catalog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3639D2E-D938-4304-B1F5-4759537D8B85}|src\\Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|solutionrelative:src\\services\\catalog\\multishop.catalog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductImagesController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Services\\Catalog\\MultiShop.Catalog\\Controllers\\ProductImagesController.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Catalog\\MultiShop.Catalog\\Controllers\\ProductImagesController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Services\\Catalog\\MultiShop.Catalog\\Controllers\\ProductImagesController.cs",
+              "RelativeToolTip": "src\\Services\\Catalog\\MultiShop.Catalog\\Controllers\\ProductImagesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T16:27:30.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductDetailsController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Services\\Catalog\\MultiShop.Catalog\\Controllers\\ProductDetailsController.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Catalog\\MultiShop.Catalog\\Controllers\\ProductDetailsController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Services\\Catalog\\MultiShop.Catalog\\Controllers\\ProductDetailsController.cs",
+              "RelativeToolTip": "src\\Services\\Catalog\\MultiShop.Catalog\\Controllers\\ProductDetailsController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T16:27:22.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Services\\Catalog\\MultiShop.Catalog\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Catalog\\MultiShop.Catalog\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Services\\Catalog\\MultiShop.Catalog\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "src\\Services\\Catalog\\MultiShop.Catalog\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T16:27:17.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Services\\Catalog\\MultiShop.Catalog\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Catalog\\MultiShop.Catalog\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Services\\Catalog\\MultiShop.Catalog\\Program.cs",
+              "RelativeToolTip": "src\\Services\\Catalog\\MultiShop.Catalog\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T15:55:42.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Services\\Catalog\\MultiShop.Catalog\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\Services\\Catalog\\MultiShop.Catalog\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Services\\Catalog\\MultiShop.Catalog\\appsettings.json",
+              "RelativeToolTip": "src\\Services\\Catalog\\MultiShop.Catalog\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-24T16:14:25.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Services\\Catalog\\MultiShop.Catalog\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Catalog\\MultiShop.Catalog\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Services\\Catalog\\MultiShop.Catalog\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "src\\Services\\Catalog\\MultiShop.Catalog\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBUAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T16:13:44.999Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
