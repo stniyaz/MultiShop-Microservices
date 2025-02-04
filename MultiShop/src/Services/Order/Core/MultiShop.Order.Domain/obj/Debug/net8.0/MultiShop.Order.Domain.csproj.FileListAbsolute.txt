@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\MultiShop-Microservices\MultiShop\src\Services\Order\Core\MultiShop.Order.Domain\bin\Debug\net8.0\MultiShop.Order.Domain.deps.json
+C:\Users\Admin\Desktop\MultiShop-Microservices\MultiShop\src\Services\Order\Core\MultiShop.Order.Domain\bin\Debug\net8.0\MultiShop.Order.Domain.dll
+C:\Users\Admin\Desktop\MultiShop-Microservices\MultiShop\src\Services\Order\Core\MultiShop.Order.Domain\bin\Debug\net8.0\MultiShop.Order.Domain.pdb
+C:\Users\Admin\Desktop\MultiShop-Microservices\MultiShop\src\Services\Order\Core\MultiShop.Order.Domain\obj\Debug\net8.0\MultiShop.Order.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\MultiShop-Microservices\MultiShop\src\Services\Order\Core\MultiShop.Order.Domain\obj\Debug\net8.0\MultiShop.Order.Domain.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\MultiShop-Microservices\MultiShop\src\Services\Order\Core\MultiShop.Order.Domain\obj\Debug\net8.0\MultiShop.Order.Domain.AssemblyInfo.cs
+C:\Users\Admin\Desktop\MultiShop-Microservices\MultiShop\src\Services\Order\Core\MultiShop.Order.Domain\obj\Debug\net8.0\MultiShop.Order.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\MultiShop-Microservices\MultiShop\src\Services\Order\Core\MultiShop.Order.Domain\obj\Debug\net8.0\MultiShop.Order.Domain.sourcelink.json
+C:\Users\Admin\Desktop\MultiShop-Microservices\MultiShop\src\Services\Order\Core\MultiShop.Order.Domain\obj\Debug\net8.0\MultiShop.Order.Domain.dll
+C:\Users\Admin\Desktop\MultiShop-Microservices\MultiShop\src\Services\Order\Core\MultiShop.Order.Domain\obj\Debug\net8.0\refint\MultiShop.Order.Domain.dll
+C:\Users\Admin\Desktop\MultiShop-Microservices\MultiShop\src\Services\Order\Core\MultiShop.Order.Domain\obj\Debug\net8.0\MultiShop.Order.Domain.pdb
+C:\Users\Admin\Desktop\MultiShop-Microservices\MultiShop\src\Services\Order\Core\MultiShop.Order.Domain\obj\Debug\net8.0\ref\MultiShop.Order.Domain.dll
