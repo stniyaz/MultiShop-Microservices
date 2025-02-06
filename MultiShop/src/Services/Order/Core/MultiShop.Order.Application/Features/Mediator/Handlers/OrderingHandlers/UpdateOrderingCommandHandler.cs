@@ -8,9 +8,16 @@ namespace MultiShop.Order.Application.Features.Mediator.Handlers.OrderingHandler
 public class UpdateOrderingCommandHandler : IRequestHandler<UpdateOrderingRequest>
 {
     private readonly IGenericRepository<Ordering> _repository;
+
+    public UpdateOrderingCommandHandler(IGenericRepository<Ordering> repository)
+    {
+        _repository = repository;
+    }
+
     public async Task Handle(UpdateOrderingRequest request, CancellationToken cancellationToken)
     {
-        var value = await _repository.GetByIdAsync(request.OrderingId);
+        var number = request.OrderingId;
+        var value = await _repository.GetByIdAsync(number);
         value.OrderDate = request.OrderDate;
         value.UserId = request.UserId;
         value.TotalPrice = request.TotalPrice;

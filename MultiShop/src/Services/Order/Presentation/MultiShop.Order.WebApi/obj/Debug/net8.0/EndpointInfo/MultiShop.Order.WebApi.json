@@ -450,8 +450,8 @@
         "type": "object",
         "properties": {
           "orderDetailId": {
-            "type": "string",
-            "nullable": true
+            "type": "integer",
+            "format": "int32"
           },
           "productId": {
             "type": "string",

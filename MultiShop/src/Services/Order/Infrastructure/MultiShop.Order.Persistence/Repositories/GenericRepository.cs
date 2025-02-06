@@ -42,7 +42,7 @@ public class GenericRepository<T> : IGenericRepository<T> where T : class, new()
 
     public async Task UpdateAsync(T entity)
     {
-        _orderContext.Update(entity);
+        _orderContext.Set<T>().Update(entity);
         await _orderContext.SaveChangesAsync();
     }
 }
