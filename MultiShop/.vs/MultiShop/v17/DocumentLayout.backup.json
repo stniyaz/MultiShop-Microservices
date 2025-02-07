@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D13D1AB-582C-48BE-A13B-0D368C98A00E}|src\\IdentityServer\\MultiShop.IdentityServer\\MultiShop.IdentityServer.csproj|c:\\users\\admin\\desktop\\multishop-microservices\\multishop\\src\\identityserver\\multishop.identityserver\\controllers\\registerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D13D1AB-582C-48BE-A13B-0D368C98A00E}|src\\IdentityServer\\MultiShop.IdentityServer\\MultiShop.IdentityServer.csproj|solutionrelative:src\\identityserver\\multishop.identityserver\\controllers\\registerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D13D1AB-582C-48BE-A13B-0D368C98A00E}|src\\IdentityServer\\MultiShop.IdentityServer\\MultiShop.IdentityServer.csproj|c:\\users\\admin\\desktop\\multishop-microservices\\multishop\\src\\identityserver\\multishop.identityserver\\multishop.identityserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2D13D1AB-582C-48BE-A13B-0D368C98A00E}|src\\IdentityServer\\MultiShop.IdentityServer\\MultiShop.IdentityServer.csproj|solutionrelative:src\\identityserver\\multishop.identityserver\\multishop.identityserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D13D1AB-582C-48BE-A13B-0D368C98A00E}|src\\IdentityServer\\MultiShop.IdentityServer\\MultiShop.IdentityServer.csproj|c:\\users\\admin\\desktop\\multishop-microservices\\multishop\\src\\identityserver\\multishop.identityserver\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D13D1AB-582C-48BE-A13B-0D368C98A00E}|src\\IdentityServer\\MultiShop.IdentityServer\\MultiShop.IdentityServer.csproj|solutionrelative:src\\identityserver\\multishop.identityserver\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +22,48 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegistersController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\IdentityServer\\MultiShop.IdentityServer\\Controllers\\RegistersController.cs",
+              "RelativeDocumentMoniker": "src\\IdentityServer\\MultiShop.IdentityServer\\Controllers\\RegistersController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\IdentityServer\\MultiShop.IdentityServer\\Controllers\\RegistersController.cs",
+              "RelativeToolTip": "src\\IdentityServer\\MultiShop.IdentityServer\\Controllers\\RegistersController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T23:58:39.114Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MultiShop.IdentityServer",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\IdentityServer\\MultiShop.IdentityServer\\MultiShop.IdentityServer.csproj",
+              "RelativeDocumentMoniker": "src\\IdentityServer\\MultiShop.IdentityServer\\MultiShop.IdentityServer.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\IdentityServer\\MultiShop.IdentityServer\\MultiShop.IdentityServer.csproj",
+              "RelativeToolTip": "src\\IdentityServer\\MultiShop.IdentityServer\\MultiShop.IdentityServer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-07T00:11:14.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\IdentityServer\\MultiShop.IdentityServer\\Startup.cs",
+              "RelativeDocumentMoniker": "src\\IdentityServer\\MultiShop.IdentityServer\\Startup.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\IdentityServer\\MultiShop.IdentityServer\\Startup.cs",
+              "RelativeToolTip": "src\\IdentityServer\\MultiShop.IdentityServer\\Startup.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAkwFEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T00:08:29.529Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
