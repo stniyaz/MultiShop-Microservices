@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "kkInvqeXBeq3lrb+SWDwm9iCYQ78fgsjthsjrptdEJg=",
+  "Source": "MulitShop.Cargo.WebApi",
+  "BasePath": "_content/MulitShop.Cargo.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
