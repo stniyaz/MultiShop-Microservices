@@ -1,5 +1,6 @@
 ﻿using MultiShop.Cargo.BusinessLayer.Abstracts;
 using MultiShop.Cargo.DataAccessLayer.Abstracts;
+using MultiShop.Cargo.DataAccessLayer.Repositories;
 using MultiShop.Cargo.DtoLayer.Dtos.CargoOperationDtos;
 using MultiShop.Cargo.EntityLayer.Concrete;
 using System.Runtime.ConstrainedExecution;
@@ -29,7 +30,10 @@ public class CargoOperationService : ICargoOperationService
 
     public async Task DeleteAsync(int id)
     {
-        await _cargoOperationRepository.GetByIdAsync(id);
+        var value = await _cargoOperationRepository.GetByIdAsync(id);
+
+        _cargoOperationRepository.Delete(value);
+
         await _cargoOperationRepository.SaveChangeAsync();
     }
 

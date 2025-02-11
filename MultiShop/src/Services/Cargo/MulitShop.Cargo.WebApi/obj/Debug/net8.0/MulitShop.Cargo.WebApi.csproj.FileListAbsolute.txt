@@ -154,3 +154,4 @@ C:\Users\Admin\Desktop\MultiShop-Microservices\MultiShop\src\Services\Cargo\Muli
 C:\Users\Admin\Desktop\MultiShop-Microservices\MultiShop\src\Services\Cargo\MulitShop.Cargo.WebApi\obj\Debug\net8.0\MulitShop.Cargo.WebApi.pdb
 C:\Users\Admin\Desktop\MultiShop-Microservices\MultiShop\src\Services\Cargo\MulitShop.Cargo.WebApi\obj\Debug\net8.0\MulitShop.Cargo.WebApi.genruntimeconfig.cache
 C:\Users\Admin\Desktop\MultiShop-Microservices\MultiShop\src\Services\Cargo\MulitShop.Cargo.WebApi\obj\Debug\net8.0\ref\MulitShop.Cargo.WebApi.dll
+C:\Users\Admin\Desktop\MultiShop-Microservices\MultiShop\src\Services\Cargo\MulitShop.Cargo.WebApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

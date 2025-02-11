@@ -7,7 +7,7 @@
         "Action": "Start"
       },
       {
-        "Path": "src\\Services\\Order\\Presentation\\MultiShop.Order.WebApi\\MultiShop.Order.WebApi.csproj",
+        "Path": "src\\Services\\Cargo\\MulitShop.Cargo.WebApi\\MulitShop.Cargo.WebApi.csproj",
         "Action": "Start"
       }
     ]

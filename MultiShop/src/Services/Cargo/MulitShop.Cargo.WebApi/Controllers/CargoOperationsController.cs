@@ -1,9 +1,12 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using MultiShop.Cargo.BusinessLayer.Abstracts;
+using MultiShop.Cargo.BusinessLayer.Concrete;
 using MultiShop.Cargo.DtoLayer.Dtos.CargoOperationDtos;
 
 namespace MulitShop.Cargo.WebApi.Controllers;
 
+[Authorize]
 [Route("api/[controller]")]
 [ApiController]
 public class CargoOperationsController(ICargoOperationService _cargoOperationService) : ControllerBase
@@ -34,5 +37,12 @@ public class CargoOperationsController(ICargoOperationService _cargoOperationSer
         await _cargoOperationService.UpdateAsync(updatecargoOperationDto);
 
         return Ok("Updated Successfully");
+    }
+
+    [HttpDelete("{id}")]
+    public async Task<IActionResult> DeleteCargoCompany(int id)
+    {
+        await _cargoOperationService.DeleteAsync(id);
+        return Ok("Deleted Successfully.");
     }
 }
