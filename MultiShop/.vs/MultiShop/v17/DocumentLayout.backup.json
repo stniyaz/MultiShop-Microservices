@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2E14F93-3076-4955-A17D-C45C238BC582}|src\\Services\\Basket\\MultiShop.Basket\\MultiShop.Basket.csproj|c:\\users\\admin\\desktop\\multishop-microservices\\multishop\\src\\services\\basket\\multishop.basket\\services\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2E14F93-3076-4955-A17D-C45C238BC582}|src\\Services\\Basket\\MultiShop.Basket\\MultiShop.Basket.csproj|solutionrelative:src\\services\\basket\\multishop.basket\\services\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9695B6E3-DC52-4738-925D-3EBE62F569B8}|src\\Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|c:\\users\\admin\\desktop\\multishop-microservices\\multishop\\src\\frontends\\multishop.webui\\views\\uilayout\\uilayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9695B6E3-DC52-4738-925D-3EBE62F569B8}|src\\Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|solutionrelative:src\\frontends\\multishop.webui\\views\\uilayout\\uilayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2E14F93-3076-4955-A17D-C45C238BC582}|src\\Services\\Basket\\MultiShop.Basket\\MultiShop.Basket.csproj|c:\\users\\admin\\desktop\\multishop-microservices\\multishop\\src\\services\\basket\\multishop.basket\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2E14F93-3076-4955-A17D-C45C238BC582}|src\\Services\\Basket\\MultiShop.Basket\\MultiShop.Basket.csproj|solutionrelative:src\\services\\basket\\multishop.basket\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9695B6E3-DC52-4738-925D-3EBE62F569B8}|src\\Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|c:\\users\\admin\\desktop\\multishop-microservices\\multishop\\src\\frontends\\multishop.webui\\viewcomponents\\uilayoutviewcomponents\\_headeruilayoutcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9695B6E3-DC52-4738-925D-3EBE62F569B8}|src\\Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|solutionrelative:src\\frontends\\multishop.webui\\viewcomponents\\uilayoutviewcomponents\\_headeruilayoutcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2E14F93-3076-4955-A17D-C45C238BC582}|src\\Services\\Basket\\MultiShop.Basket\\MultiShop.Basket.csproj|c:\\users\\admin\\desktop\\multishop-microservices\\multishop\\src\\services\\basket\\multishop.basket\\controllers\\basketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2E14F93-3076-4955-A17D-C45C238BC582}|src\\Services\\Basket\\MultiShop.Basket\\MultiShop.Basket.csproj|solutionrelative:src\\services\\basket\\multishop.basket\\controllers\\basketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9695B6E3-DC52-4738-925D-3EBE62F569B8}|src\\Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|c:\\users\\admin\\desktop\\multishop-microservices\\multishop\\src\\frontends\\multishop.webui\\controllers\\uilayoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9695B6E3-DC52-4738-925D-3EBE62F569B8}|src\\Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|solutionrelative:src\\frontends\\multishop.webui\\controllers\\uilayoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2E14F93-3076-4955-A17D-C45C238BC582}|src\\Services\\Basket\\MultiShop.Basket\\MultiShop.Basket.csproj|c:\\users\\admin\\desktop\\multishop-microservices\\multishop\\src\\services\\basket\\multishop.basket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2E14F93-3076-4955-A17D-C45C238BC582}|src\\Services\\Basket\\MultiShop.Basket\\MultiShop.Basket.csproj|solutionrelative:src\\services\\basket\\multishop.basket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9695B6E3-DC52-4738-925D-3EBE62F569B8}|src\\Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|c:\\users\\admin\\desktop\\multishop-microservices\\multishop\\src\\frontends\\multishop.webui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9695B6E3-DC52-4738-925D-3EBE62F569B8}|src\\Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|solutionrelative:src\\frontends\\multishop.webui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,62 +26,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Services\\Basket\\MultiShop.Basket\\Program.cs",
-              "RelativeDocumentMoniker": "src\\Services\\Basket\\MultiShop.Basket\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Services\\Basket\\MultiShop.Basket\\Program.cs",
-              "RelativeToolTip": "src\\Services\\Basket\\MultiShop.Basket\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T23:16:36.375Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "BasketsController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Services\\Basket\\MultiShop.Basket\\Controllers\\BasketsController.cs",
-              "RelativeDocumentMoniker": "src\\Services\\Basket\\MultiShop.Basket\\Controllers\\BasketsController.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Services\\Basket\\MultiShop.Basket\\Controllers\\BasketsController.cs",
-              "RelativeToolTip": "src\\Services\\Basket\\MultiShop.Basket\\Controllers\\BasketsController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAA7AAAAAAAAAA==",
+              "Title": "UILayoutController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\Controllers\\UILayoutController.cs",
+              "RelativeDocumentMoniker": "src\\Frontends\\MultiShop.WebUI\\Controllers\\UILayoutController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\Controllers\\UILayoutController.cs",
+              "RelativeToolTip": "src\\Frontends\\MultiShop.WebUI\\Controllers\\UILayoutController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T23:14:59.509Z",
+              "WhenOpened": "2025-02-15T12:30:52.881Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "LoginService.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Services\\Basket\\MultiShop.Basket\\Services\\LoginService.cs",
-              "RelativeDocumentMoniker": "src\\Services\\Basket\\MultiShop.Basket\\Services\\LoginService.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Services\\Basket\\MultiShop.Basket\\Services\\LoginService.cs",
-              "RelativeToolTip": "src\\Services\\Basket\\MultiShop.Basket\\Services\\LoginService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABcAAAAAAAAAA==",
+              "Title": "_HeaderUILayoutComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\ViewComponents\\UILayoutViewComponents\\_HeaderUILayoutComponentPartial.cs",
+              "RelativeDocumentMoniker": "src\\Frontends\\MultiShop.WebUI\\ViewComponents\\UILayoutViewComponents\\_HeaderUILayoutComponentPartial.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\ViewComponents\\UILayoutViewComponents\\_HeaderUILayoutComponentPartial.cs",
+              "RelativeToolTip": "src\\Frontends\\MultiShop.WebUI\\ViewComponents\\UILayoutViewComponents\\_HeaderUILayoutComponentPartial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T23:12:01.116Z",
-              "IsPinned": true,
+              "WhenOpened": "2025-02-15T12:37:04.026Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ServiceRegistration.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Services\\Basket\\MultiShop.Basket\\Services\\ServiceRegistration.cs",
-              "RelativeDocumentMoniker": "src\\Services\\Basket\\MultiShop.Basket\\Services\\ServiceRegistration.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Services\\Basket\\MultiShop.Basket\\Services\\ServiceRegistration.cs",
-              "RelativeToolTip": "src\\Services\\Basket\\MultiShop.Basket\\Services\\ServiceRegistration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T23:16:42.472Z",
-              "IsPinned": true,
+              "Title": "UILayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\Views\\UILayout\\UILayout.cshtml",
+              "RelativeDocumentMoniker": "src\\Frontends\\MultiShop.WebUI\\Views\\UILayout\\UILayout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\Views\\UILayout\\UILayout.cshtml",
+              "RelativeToolTip": "src\\Frontends\\MultiShop.WebUI\\Views\\UILayout\\UILayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-15T12:33:21.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "src\\Frontends\\MultiShop.WebUI\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "src\\Frontends\\MultiShop.WebUI\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-15T12:32:45.421Z",
               "EditorCaption": ""
             },
             {
