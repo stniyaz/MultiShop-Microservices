@@ -947,7 +947,7 @@
         },
         "runtime": {
           "MultiShop.Cargo.BusinessLayer.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -958,7 +958,7 @@
         },
         "runtime": {
           "MultiShop.Cargo.DataAccessLayer.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -966,7 +966,7 @@
       "MultiShop.Cargo.DtoLayer/1.0.0": {
         "runtime": {
           "MultiShop.Cargo.DtoLayer.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -978,7 +978,7 @@
         },
         "runtime": {
           "MultiShop.Cargo.EntityLayer.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
