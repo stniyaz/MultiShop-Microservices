@@ -5,6 +5,1026 @@
       "PackagePath": "staticwebassets\\MultiShop.WebUI.eqs25t98gc.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\Bootstrap5\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\admin\\Bootstrap5\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\Bootstrap5\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\admin\\Bootstrap5\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\app\\calendar.html",
+      "PackagePath": "staticwebassets\\admin\\app\\calendar.html"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\app\\contacts.html",
+      "PackagePath": "staticwebassets\\admin\\app\\contacts.html"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\app\\et-line-font\\et-line-font.css",
+      "PackagePath": "staticwebassets\\admin\\app\\et-line-font\\et-line-font.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\app\\et-line-font\\fonts\\et-line.eot",
+      "PackagePath": "staticwebassets\\admin\\app\\et-line-font\\fonts\\et-line.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\app\\et-line-font\\fonts\\et-line.svg",
+      "PackagePath": "staticwebassets\\admin\\app\\et-line-font\\fonts\\et-line.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\app\\et-line-font\\fonts\\et-line.ttf",
+      "PackagePath": "staticwebassets\\admin\\app\\et-line-font\\fonts\\et-line.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\app\\et-line-font\\fonts\\et-line.woff",
+      "PackagePath": "staticwebassets\\admin\\app\\et-line-font\\fonts\\et-line.woff"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\app\\et-line-font\\fonts\\et-lined41d.eot",
+      "PackagePath": "staticwebassets\\admin\\app\\et-line-font\\fonts\\et-lined41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\app\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\admin\\app\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\app\\font-awesome\\fonts\\fontawesome-webfont78ce.eot",
+      "PackagePath": "staticwebassets\\admin\\app\\font-awesome\\fonts\\fontawesome-webfont78ce.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\app\\font-awesome\\fonts\\fontawesome-webfont78ce.svg",
+      "PackagePath": "staticwebassets\\admin\\app\\font-awesome\\fonts\\fontawesome-webfont78ce.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\app\\font-awesome\\fonts\\fontawesome-webfont78ce.ttf",
+      "PackagePath": "staticwebassets\\admin\\app\\font-awesome\\fonts\\fontawesome-webfont78ce.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\app\\font-awesome\\fonts\\fontawesome-webfont78ce.woff",
+      "PackagePath": "staticwebassets\\admin\\app\\font-awesome\\fonts\\fontawesome-webfont78ce.woff"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\app\\font-awesome\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\admin\\app\\font-awesome\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\app\\gallery.html",
+      "PackagePath": "staticwebassets\\admin\\app\\gallery.html"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\app\\invoice.html",
+      "PackagePath": "staticwebassets\\admin\\app\\invoice.html"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\app\\project-summary.html",
+      "PackagePath": "staticwebassets\\admin\\app\\project-summary.html"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\app\\timeline.html",
+      "PackagePath": "staticwebassets\\admin\\app\\timeline.html"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\app\\weather.html",
+      "PackagePath": "staticwebassets\\admin\\app\\weather.html"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\bootstrap\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\bootstrap\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\bootstrap\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\bootstrap\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\bootstrap\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\bootstrap\\fonts\\glyphicons-halflings-regulard41d.eot",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\fonts\\glyphicons-halflings-regulard41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\charts\\3d.html",
+      "PackagePath": "staticwebassets\\admin\\charts\\3d.html"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\charts\\area.html",
+      "PackagePath": "staticwebassets\\admin\\charts\\area.html"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\charts\\bar.html",
+      "PackagePath": "staticwebassets\\admin\\charts\\bar.html"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\charts\\bubble.html",
+      "PackagePath": "staticwebassets\\admin\\charts\\bubble.html"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\charts\\combinations.html",
+      "PackagePath": "staticwebassets\\admin\\charts\\combinations.html"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\charts\\et-line-font\\et-line-font.css",
+      "PackagePath": "staticwebassets\\admin\\charts\\et-line-font\\et-line-font.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\charts\\et-line-font\\fonts\\et-line.eot",
+      "PackagePath": "staticwebassets\\admin\\charts\\et-line-font\\fonts\\et-line.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\charts\\et-line-font\\fonts\\et-line.svg",
+      "PackagePath": "staticwebassets\\admin\\charts\\et-line-font\\fonts\\et-line.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\charts\\et-line-font\\fonts\\et-line.ttf",
+      "PackagePath": "staticwebassets\\admin\\charts\\et-line-font\\fonts\\et-line.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\charts\\et-line-font\\fonts\\et-line.woff",
+      "PackagePath": "staticwebassets\\admin\\charts\\et-line-font\\fonts\\et-line.woff"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\charts\\et-line-font\\fonts\\et-lined41d.eot",
+      "PackagePath": "staticwebassets\\admin\\charts\\et-line-font\\fonts\\et-lined41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\charts\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\admin\\charts\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\charts\\font-awesome\\fonts\\fontawesome-webfont78ce.eot",
+      "PackagePath": "staticwebassets\\admin\\charts\\font-awesome\\fonts\\fontawesome-webfont78ce.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\charts\\font-awesome\\fonts\\fontawesome-webfont78ce.svg",
+      "PackagePath": "staticwebassets\\admin\\charts\\font-awesome\\fonts\\fontawesome-webfont78ce.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\charts\\font-awesome\\fonts\\fontawesome-webfont78ce.ttf",
+      "PackagePath": "staticwebassets\\admin\\charts\\font-awesome\\fonts\\fontawesome-webfont78ce.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\charts\\font-awesome\\fonts\\fontawesome-webfont78ce.woff",
+      "PackagePath": "staticwebassets\\admin\\charts\\font-awesome\\fonts\\fontawesome-webfont78ce.woff"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\charts\\font-awesome\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\admin\\charts\\font-awesome\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\charts\\line.html",
+      "PackagePath": "staticwebassets\\admin\\charts\\line.html"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\charts\\pie.html",
+      "PackagePath": "staticwebassets\\admin\\charts\\pie.html"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\component\\alerts.html",
+      "PackagePath": "staticwebassets\\admin\\component\\alerts.html"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\component\\buttons.html",
+      "PackagePath": "staticwebassets\\admin\\component\\buttons.html"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\component\\carousel.html",
+      "PackagePath": "staticwebassets\\admin\\component\\carousel.html"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\component\\collapse.html",
+      "PackagePath": "staticwebassets\\admin\\component\\collapse.html"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\component\\et-line-font\\et-line-font.css",
+      "PackagePath": "staticwebassets\\admin\\component\\et-line-font\\et-line-font.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\component\\et-line-font\\fonts\\et-line.eot",
+      "PackagePath": "staticwebassets\\admin\\component\\et-line-font\\fonts\\et-line.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\component\\et-line-font\\fonts\\et-line.svg",
+      "PackagePath": "staticwebassets\\admin\\component\\et-line-font\\fonts\\et-line.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\component\\et-line-font\\fonts\\et-line.ttf",
+      "PackagePath": "staticwebassets\\admin\\component\\et-line-font\\fonts\\et-line.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\component\\et-line-font\\fonts\\et-line.woff",
+      "PackagePath": "staticwebassets\\admin\\component\\et-line-font\\fonts\\et-line.woff"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\component\\et-line-font\\fonts\\et-lined41d.eot",
+      "PackagePath": "staticwebassets\\admin\\component\\et-line-font\\fonts\\et-lined41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\component\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\admin\\component\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\component\\font-awesome\\fonts\\fontawesome-webfont78ce.eot",
+      "PackagePath": "staticwebassets\\admin\\component\\font-awesome\\fonts\\fontawesome-webfont78ce.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\component\\font-awesome\\fonts\\fontawesome-webfont78ce.svg",
+      "PackagePath": "staticwebassets\\admin\\component\\font-awesome\\fonts\\fontawesome-webfont78ce.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\component\\font-awesome\\fonts\\fontawesome-webfont78ce.ttf",
+      "PackagePath": "staticwebassets\\admin\\component\\font-awesome\\fonts\\fontawesome-webfont78ce.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\component\\font-awesome\\fonts\\fontawesome-webfont78ce.woff",
+      "PackagePath": "staticwebassets\\admin\\component\\font-awesome\\fonts\\fontawesome-webfont78ce.woff"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\component\\font-awesome\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\admin\\component\\font-awesome\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\component\\listgroup.html",
+      "PackagePath": "staticwebassets\\admin\\component\\listgroup.html"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\component\\mediaobjects.html",
+      "PackagePath": "staticwebassets\\admin\\component\\mediaobjects.html"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\component\\pagination.html",
+      "PackagePath": "staticwebassets\\admin\\component\\pagination.html"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\component\\popovers.html",
+      "PackagePath": "staticwebassets\\admin\\component\\popovers.html"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\component\\progress.html",
+      "PackagePath": "staticwebassets\\admin\\component\\progress.html"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\component\\tabs.html",
+      "PackagePath": "staticwebassets\\admin\\component\\tabs.html"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\component\\tooltips.html",
+      "PackagePath": "staticwebassets\\admin\\component\\tooltips.html"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\dashboard-2.html",
+      "PackagePath": "staticwebassets\\admin\\dashboard-2.html"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\dashboard-3.html",
+      "PackagePath": "staticwebassets\\admin\\dashboard-3.html"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\dist\\css\\style.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\dist\\et-line-font\\et-line-font.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\et-line-font\\et-line-font.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\dist\\et-line-font\\fonts\\et-line.eot",
+      "PackagePath": "staticwebassets\\admin\\dist\\et-line-font\\fonts\\et-line.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\dist\\et-line-font\\fonts\\et-line.svg",
+      "PackagePath": "staticwebassets\\admin\\dist\\et-line-font\\fonts\\et-line.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\dist\\et-line-font\\fonts\\et-line.ttf",
+      "PackagePath": "staticwebassets\\admin\\dist\\et-line-font\\fonts\\et-line.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\dist\\et-line-font\\fonts\\et-line.woff",
+      "PackagePath": "staticwebassets\\admin\\dist\\et-line-font\\fonts\\et-line.woff"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\dist\\et-line-font\\fonts\\et-lined41d.eot",
+      "PackagePath": "staticwebassets\\admin\\dist\\et-line-font\\fonts\\et-lined41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\dist\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\dist\\font-awesome\\fonts\\fontawesome-webfont78ce.eot",
+      "PackagePath": "staticwebassets\\admin\\dist\\font-awesome\\fonts\\fontawesome-webfont78ce.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\dist\\font-awesome\\fonts\\fontawesome-webfont78ce.svg",
+      "PackagePath": "staticwebassets\\admin\\dist\\font-awesome\\fonts\\fontawesome-webfont78ce.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\dist\\font-awesome\\fonts\\fontawesome-webfont78ce.ttf",
+      "PackagePath": "staticwebassets\\admin\\dist\\font-awesome\\fonts\\fontawesome-webfont78ce.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\dist\\font-awesome\\fonts\\fontawesome-webfont78ce.woff",
+      "PackagePath": "staticwebassets\\admin\\dist\\font-awesome\\fonts\\fontawesome-webfont78ce.woff"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\dist\\font-awesome\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\admin\\dist\\font-awesome\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\dist\\font\\weathericons-regular-webfont-2.html",
+      "PackagePath": "staticwebassets\\admin\\dist\\font\\weathericons-regular-webfont-2.html"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\dist\\font\\weathericons-regular-webfont-3.html",
+      "PackagePath": "staticwebassets\\admin\\dist\\font\\weathericons-regular-webfont-3.html"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\dist\\font\\weathericons-regular-webfont-4.html",
+      "PackagePath": "staticwebassets\\admin\\dist\\font\\weathericons-regular-webfont-4.html"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\dist\\font\\weathericons-regular-webfont-5.html",
+      "PackagePath": "staticwebassets\\admin\\dist\\font\\weathericons-regular-webfont-5.html"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\dist\\font\\weathericons-regular-webfont.html",
+      "PackagePath": "staticwebassets\\admin\\dist\\font\\weathericons-regular-webfont.html"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\dist\\font\\weathericons-regular-webfontd41d.html",
+      "PackagePath": "staticwebassets\\admin\\dist\\font\\weathericons-regular-webfontd41d.html"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\dist\\img\\body-bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\body-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\dist\\img\\img1.jpg",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\dist\\img\\img10.jpg",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\img10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\dist\\img\\img11.jpg",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\img11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\dist\\img\\img12.jpg",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\img12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\dist\\img\\img13.jpg",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\img13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\dist\\img\\img14.jpg",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\img14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\dist\\img\\img15.jpg",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\img15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\dist\\img\\img16.jpg",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\img16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\dist\\img\\img17.jpg",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\img17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\dist\\img\\img18.jpg",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\img18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\dist\\img\\img2.jpg",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\dist\\img\\img3.jpg",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\dist\\img\\img4.jpg",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\img4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\dist\\img\\img5.jpg",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\img5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\dist\\img\\img6.jpg",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\img6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\dist\\img\\img7.jpg",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\img7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\dist\\img\\img8.jpg",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\img8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\dist\\img\\img9.jpg",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\img9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\dist\\img\\logo-lg.png",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\logo-lg.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\dist\\img\\logo.png",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\dist\\img\\media\\portfolio-1.jpg",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\media\\portfolio-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\dist\\img\\media\\portfolio-10.jpg",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\media\\portfolio-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\dist\\img\\media\\portfolio-11.jpg",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\media\\portfolio-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\dist\\img\\media\\portfolio-12.jpg",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\media\\portfolio-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\dist\\img\\media\\portfolio-2.jpg",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\media\\portfolio-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\dist\\img\\media\\portfolio-3.jpg",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\media\\portfolio-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\dist\\img\\media\\portfolio-4.jpg",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\media\\portfolio-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\dist\\img\\media\\portfolio-5.jpg",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\media\\portfolio-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\dist\\img\\media\\portfolio-6.jpg",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\media\\portfolio-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\dist\\img\\media\\portfolio-7.jpg",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\media\\portfolio-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\dist\\img\\media\\portfolio-8.jpg",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\media\\portfolio-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\dist\\img\\media\\portfolio-9.jpg",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\media\\portfolio-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\dist\\img\\media\\thumb\\thumb1.jpg",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\media\\thumb\\thumb1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\dist\\img\\media\\thumb\\thumb10.jpg",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\media\\thumb\\thumb10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\dist\\img\\media\\thumb\\thumb11.jpg",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\media\\thumb\\thumb11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\dist\\img\\media\\thumb\\thumb12.jpg",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\media\\thumb\\thumb12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\dist\\img\\media\\thumb\\thumb2.jpg",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\media\\thumb\\thumb2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\dist\\img\\media\\thumb\\thumb3.jpg",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\media\\thumb\\thumb3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\dist\\img\\media\\thumb\\thumb4.jpg",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\media\\thumb\\thumb4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\dist\\img\\media\\thumb\\thumb5.jpg",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\media\\thumb\\thumb5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\dist\\img\\media\\thumb\\thumb6.jpg",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\media\\thumb\\thumb6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\dist\\img\\media\\thumb\\thumb7.jpg",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\media\\thumb\\thumb7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\dist\\img\\media\\thumb\\thumb8.jpg",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\media\\thumb\\thumb8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\dist\\img\\media\\thumb\\thumb9.jpg",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\media\\thumb\\thumb9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\dist\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\admin\\dist\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\dist\\js\\ovio.js",
+      "PackagePath": "staticwebassets\\admin\\dist\\js\\ovio.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\dist\\weather\\font\\weathericons-regular-webfont.eot",
+      "PackagePath": "staticwebassets\\admin\\dist\\weather\\font\\weathericons-regular-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\dist\\weather\\font\\weathericons-regular-webfont.svg",
+      "PackagePath": "staticwebassets\\admin\\dist\\weather\\font\\weathericons-regular-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\dist\\weather\\font\\weathericons-regular-webfont.ttf",
+      "PackagePath": "staticwebassets\\admin\\dist\\weather\\font\\weathericons-regular-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\dist\\weather\\font\\weathericons-regular-webfont.woff",
+      "PackagePath": "staticwebassets\\admin\\dist\\weather\\font\\weathericons-regular-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\dist\\weather\\font\\weathericons-regular-webfont.woff2",
+      "PackagePath": "staticwebassets\\admin\\dist\\weather\\font\\weathericons-regular-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\dist\\weather\\font\\weathericons-regular-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\admin\\dist\\weather\\font\\weathericons-regular-webfontd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\dist\\weather\\weather-icons-wind.min.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\weather\\weather-icons-wind.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\dist\\weather\\weather-icons.min.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\weather\\weather-icons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\forms\\cropper.html",
+      "PackagePath": "staticwebassets\\admin\\forms\\cropper.html"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\forms\\et-line-font\\et-line-font.css",
+      "PackagePath": "staticwebassets\\admin\\forms\\et-line-font\\et-line-font.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\forms\\et-line-font\\fonts\\et-line.eot",
+      "PackagePath": "staticwebassets\\admin\\forms\\et-line-font\\fonts\\et-line.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\forms\\et-line-font\\fonts\\et-line.svg",
+      "PackagePath": "staticwebassets\\admin\\forms\\et-line-font\\fonts\\et-line.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\forms\\et-line-font\\fonts\\et-line.ttf",
+      "PackagePath": "staticwebassets\\admin\\forms\\et-line-font\\fonts\\et-line.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\forms\\et-line-font\\fonts\\et-line.woff",
+      "PackagePath": "staticwebassets\\admin\\forms\\et-line-font\\fonts\\et-line.woff"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\forms\\et-line-font\\fonts\\et-lined41d.eot",
+      "PackagePath": "staticwebassets\\admin\\forms\\et-line-font\\fonts\\et-lined41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\forms\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\admin\\forms\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\forms\\font-awesome\\fonts\\fontawesome-webfont78ce.eot",
+      "PackagePath": "staticwebassets\\admin\\forms\\font-awesome\\fonts\\fontawesome-webfont78ce.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\forms\\font-awesome\\fonts\\fontawesome-webfont78ce.svg",
+      "PackagePath": "staticwebassets\\admin\\forms\\font-awesome\\fonts\\fontawesome-webfont78ce.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\forms\\font-awesome\\fonts\\fontawesome-webfont78ce.ttf",
+      "PackagePath": "staticwebassets\\admin\\forms\\font-awesome\\fonts\\fontawesome-webfont78ce.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\forms\\font-awesome\\fonts\\fontawesome-webfont78ce.woff",
+      "PackagePath": "staticwebassets\\admin\\forms\\font-awesome\\fonts\\fontawesome-webfont78ce.woff"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\forms\\font-awesome\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\admin\\forms\\font-awesome\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\forms\\general-elements.html",
+      "PackagePath": "staticwebassets\\admin\\forms\\general-elements.html"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\forms\\layouts.html",
+      "PackagePath": "staticwebassets\\admin\\forms\\layouts.html"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\forms\\validation.html",
+      "PackagePath": "staticwebassets\\admin\\forms\\validation.html"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\forms\\wizard.html",
+      "PackagePath": "staticwebassets\\admin\\forms\\wizard.html"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\index-boxed.html",
+      "PackagePath": "staticwebassets\\admin\\index-boxed.html"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\index-collapsed-sidebar.html",
+      "PackagePath": "staticwebassets\\admin\\index-collapsed-sidebar.html"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\index-dark.html",
+      "PackagePath": "staticwebassets\\admin\\index-dark.html"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\index-light.html",
+      "PackagePath": "staticwebassets\\admin\\index-light.html"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\index-rtl.html",
+      "PackagePath": "staticwebassets\\admin\\index-rtl.html"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\index-top-nav.html",
+      "PackagePath": "staticwebassets\\admin\\index-top-nav.html"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\index.html",
+      "PackagePath": "staticwebassets\\admin\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\maps\\et-line-font\\et-line-font.css",
+      "PackagePath": "staticwebassets\\admin\\maps\\et-line-font\\et-line-font.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\maps\\et-line-font\\fonts\\et-line.eot",
+      "PackagePath": "staticwebassets\\admin\\maps\\et-line-font\\fonts\\et-line.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\maps\\et-line-font\\fonts\\et-line.svg",
+      "PackagePath": "staticwebassets\\admin\\maps\\et-line-font\\fonts\\et-line.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\maps\\et-line-font\\fonts\\et-line.ttf",
+      "PackagePath": "staticwebassets\\admin\\maps\\et-line-font\\fonts\\et-line.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\maps\\et-line-font\\fonts\\et-line.woff",
+      "PackagePath": "staticwebassets\\admin\\maps\\et-line-font\\fonts\\et-line.woff"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\maps\\et-line-font\\fonts\\et-lined41d.eot",
+      "PackagePath": "staticwebassets\\admin\\maps\\et-line-font\\fonts\\et-lined41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\maps\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\admin\\maps\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\maps\\font-awesome\\fonts\\fontawesome-webfont78ce.eot",
+      "PackagePath": "staticwebassets\\admin\\maps\\font-awesome\\fonts\\fontawesome-webfont78ce.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\maps\\font-awesome\\fonts\\fontawesome-webfont78ce.svg",
+      "PackagePath": "staticwebassets\\admin\\maps\\font-awesome\\fonts\\fontawesome-webfont78ce.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\maps\\font-awesome\\fonts\\fontawesome-webfont78ce.ttf",
+      "PackagePath": "staticwebassets\\admin\\maps\\font-awesome\\fonts\\fontawesome-webfont78ce.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\maps\\font-awesome\\fonts\\fontawesome-webfont78ce.woff",
+      "PackagePath": "staticwebassets\\admin\\maps\\font-awesome\\fonts\\fontawesome-webfont78ce.woff"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\maps\\font-awesome\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\admin\\maps\\font-awesome\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\maps\\google-maps.html",
+      "PackagePath": "staticwebassets\\admin\\maps\\google-maps.html"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\maps\\vector-map.html",
+      "PackagePath": "staticwebassets\\admin\\maps\\vector-map.html"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\pages\\coming-soon.html",
+      "PackagePath": "staticwebassets\\admin\\pages\\coming-soon.html"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\pages\\et-line-font\\et-line-font.css",
+      "PackagePath": "staticwebassets\\admin\\pages\\et-line-font\\et-line-font.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\pages\\et-line-font\\fonts\\et-line.eot",
+      "PackagePath": "staticwebassets\\admin\\pages\\et-line-font\\fonts\\et-line.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\pages\\et-line-font\\fonts\\et-line.svg",
+      "PackagePath": "staticwebassets\\admin\\pages\\et-line-font\\fonts\\et-line.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\pages\\et-line-font\\fonts\\et-line.ttf",
+      "PackagePath": "staticwebassets\\admin\\pages\\et-line-font\\fonts\\et-line.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\pages\\et-line-font\\fonts\\et-line.woff",
+      "PackagePath": "staticwebassets\\admin\\pages\\et-line-font\\fonts\\et-line.woff"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\pages\\et-line-font\\fonts\\et-lined41d.eot",
+      "PackagePath": "staticwebassets\\admin\\pages\\et-line-font\\fonts\\et-lined41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\pages\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\admin\\pages\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\pages\\font-awesome\\fonts\\fontawesome-webfont78ce.eot",
+      "PackagePath": "staticwebassets\\admin\\pages\\font-awesome\\fonts\\fontawesome-webfont78ce.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\pages\\font-awesome\\fonts\\fontawesome-webfont78ce.svg",
+      "PackagePath": "staticwebassets\\admin\\pages\\font-awesome\\fonts\\fontawesome-webfont78ce.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\pages\\font-awesome\\fonts\\fontawesome-webfont78ce.ttf",
+      "PackagePath": "staticwebassets\\admin\\pages\\font-awesome\\fonts\\fontawesome-webfont78ce.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\pages\\font-awesome\\fonts\\fontawesome-webfont78ce.woff",
+      "PackagePath": "staticwebassets\\admin\\pages\\font-awesome\\fonts\\fontawesome-webfont78ce.woff"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\pages\\font-awesome\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\admin\\pages\\font-awesome\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\pages\\forgot-password.html",
+      "PackagePath": "staticwebassets\\admin\\pages\\forgot-password.html"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\pages\\login.html",
+      "PackagePath": "staticwebassets\\admin\\pages\\login.html"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\pages\\maintenance.html",
+      "PackagePath": "staticwebassets\\admin\\pages\\maintenance.html"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\pages\\register.html",
+      "PackagePath": "staticwebassets\\admin\\pages\\register.html"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\plugins\\calendar\\fullcalendar.min.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\calendar\\fullcalendar.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\plugins\\calendar\\fullcalendar.min.js",
+      "PackagePath": "staticwebassets\\admin\\plugins\\calendar\\fullcalendar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\plugins\\calendar\\moment.min.js",
+      "PackagePath": "staticwebassets\\admin\\plugins\\calendar\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\plugins\\charts\\3d-chart-functions.js",
+      "PackagePath": "staticwebassets\\admin\\plugins\\charts\\3d-chart-functions.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\plugins\\charts\\area-chart-functions.js",
+      "PackagePath": "staticwebassets\\admin\\plugins\\charts\\area-chart-functions.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\plugins\\charts\\bar-chart-functions.js",
+      "PackagePath": "staticwebassets\\admin\\plugins\\charts\\bar-chart-functions.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\plugins\\charts\\bubble-chart-functions.js",
+      "PackagePath": "staticwebassets\\admin\\plugins\\charts\\bubble-chart-functions.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\plugins\\charts\\chart-functions.js",
+      "PackagePath": "staticwebassets\\admin\\plugins\\charts\\chart-functions.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\plugins\\charts\\code\\highcharts-3d.js",
+      "PackagePath": "staticwebassets\\admin\\plugins\\charts\\code\\highcharts-3d.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\plugins\\charts\\code\\highcharts-more.js",
+      "PackagePath": "staticwebassets\\admin\\plugins\\charts\\code\\highcharts-more.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\plugins\\charts\\code\\highcharts.js",
+      "PackagePath": "staticwebassets\\admin\\plugins\\charts\\code\\highcharts.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\plugins\\charts\\code\\modules\\exporting.js",
+      "PackagePath": "staticwebassets\\admin\\plugins\\charts\\code\\modules\\exporting.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\plugins\\charts\\comb-chart-functions.js",
+      "PackagePath": "staticwebassets\\admin\\plugins\\charts\\comb-chart-functions.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\plugins\\charts\\line-chart-functions.js",
+      "PackagePath": "staticwebassets\\admin\\plugins\\charts\\line-chart-functions.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\plugins\\charts\\pie-chart-functions.js",
+      "PackagePath": "staticwebassets\\admin\\plugins\\charts\\pie-chart-functions.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\plugins\\countdown\\countdown.js",
+      "PackagePath": "staticwebassets\\admin\\plugins\\countdown\\countdown.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\plugins\\countdown\\css\\images\\loading.html",
+      "PackagePath": "staticwebassets\\admin\\plugins\\countdown\\css\\images\\loading.html"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\plugins\\countdown\\css\\style.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\countdown\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\plugins\\countdown\\custom.js",
+      "PackagePath": "staticwebassets\\admin\\plugins\\countdown\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\plugins\\countdown\\jquery.countdown.js",
+      "PackagePath": "staticwebassets\\admin\\plugins\\countdown\\jquery.countdown.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\plugins\\countdown\\jquery.min.js",
+      "PackagePath": "staticwebassets\\admin\\plugins\\countdown\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\plugins\\countdown\\vegas\\images\\js\\cubeportfolio\\jquery-1.9.1.html",
+      "PackagePath": "staticwebassets\\admin\\plugins\\countdown\\vegas\\images\\js\\cubeportfolio\\jquery-1.9.1.html"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\plugins\\countdown\\vegas\\images\\loading.html",
+      "PackagePath": "staticwebassets\\admin\\plugins\\countdown\\vegas\\images\\loading.html"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\plugins\\countdown\\vegas\\jquery.vegas.min.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\countdown\\vegas\\jquery.vegas.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\plugins\\countdown\\vegas\\jquery.vegas.min.js",
+      "PackagePath": "staticwebassets\\admin\\plugins\\countdown\\vegas\\jquery.vegas.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\plugins\\countdown\\vegas\\overlays\\01.html",
+      "PackagePath": "staticwebassets\\admin\\plugins\\countdown\\vegas\\overlays\\01.html"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\plugins\\cubeportfolio\\css\\cubeportfolio.min.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\cubeportfolio\\css\\cubeportfolio.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\plugins\\cubeportfolio\\img\\cbp-sprite.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\cubeportfolio\\img\\cbp-sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\plugins\\cubeportfolio\\jquery-latest.min.js",
+      "PackagePath": "staticwebassets\\admin\\plugins\\cubeportfolio\\jquery-latest.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\plugins\\cubeportfolio\\jquery.cubeportfolio.min.js",
+      "PackagePath": "staticwebassets\\admin\\plugins\\cubeportfolio\\jquery.cubeportfolio.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\plugins\\cubeportfolio\\main.js",
+      "PackagePath": "staticwebassets\\admin\\plugins\\cubeportfolio\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\plugins\\maps\\jquery.mapael.js",
+      "PackagePath": "staticwebassets\\admin\\plugins\\maps\\jquery.mapael.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\plugins\\maps\\world_countries.js",
+      "PackagePath": "staticwebassets\\admin\\plugins\\maps\\world_countries.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\plugins\\maps\\world_countries_mercator.js",
+      "PackagePath": "staticwebassets\\admin\\plugins\\maps\\world_countries_mercator.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\plugins\\maps\\world_countries_miller.js",
+      "PackagePath": "staticwebassets\\admin\\plugins\\maps\\world_countries_miller.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\plugins\\stepform\\jq.stepform.js",
+      "PackagePath": "staticwebassets\\admin\\plugins\\stepform\\jq.stepform.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\plugins\\tables\\jquery.tablesort.js",
+      "PackagePath": "staticwebassets\\admin\\plugins\\tables\\jquery.tablesort.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\tables\\basic.html",
+      "PackagePath": "staticwebassets\\admin\\tables\\basic.html"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\tables\\data.html",
+      "PackagePath": "staticwebassets\\admin\\tables\\data.html"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\tables\\et-line-font\\et-line-font.css",
+      "PackagePath": "staticwebassets\\admin\\tables\\et-line-font\\et-line-font.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\tables\\et-line-font\\fonts\\et-line.eot",
+      "PackagePath": "staticwebassets\\admin\\tables\\et-line-font\\fonts\\et-line.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\tables\\et-line-font\\fonts\\et-line.svg",
+      "PackagePath": "staticwebassets\\admin\\tables\\et-line-font\\fonts\\et-line.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\tables\\et-line-font\\fonts\\et-line.ttf",
+      "PackagePath": "staticwebassets\\admin\\tables\\et-line-font\\fonts\\et-line.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\tables\\et-line-font\\fonts\\et-line.woff",
+      "PackagePath": "staticwebassets\\admin\\tables\\et-line-font\\fonts\\et-line.woff"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\tables\\et-line-font\\fonts\\et-lined41d.eot",
+      "PackagePath": "staticwebassets\\admin\\tables\\et-line-font\\fonts\\et-lined41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\tables\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\admin\\tables\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\tables\\font-awesome\\fonts\\fontawesome-webfont78ce.eot",
+      "PackagePath": "staticwebassets\\admin\\tables\\font-awesome\\fonts\\fontawesome-webfont78ce.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\tables\\font-awesome\\fonts\\fontawesome-webfont78ce.svg",
+      "PackagePath": "staticwebassets\\admin\\tables\\font-awesome\\fonts\\fontawesome-webfont78ce.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\tables\\font-awesome\\fonts\\fontawesome-webfont78ce.ttf",
+      "PackagePath": "staticwebassets\\admin\\tables\\font-awesome\\fonts\\fontawesome-webfont78ce.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\tables\\font-awesome\\fonts\\fontawesome-webfont78ce.woff",
+      "PackagePath": "staticwebassets\\admin\\tables\\font-awesome\\fonts\\fontawesome-webfont78ce.woff"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\tables\\font-awesome\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\admin\\tables\\font-awesome\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\todo-tasklist.html",
+      "PackagePath": "staticwebassets\\admin\\todo-tasklist.html"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\admin\\widgets.html",
+      "PackagePath": "staticwebassets\\admin\\widgets.html"
+    },
+    {
       "Id": "C:\\Users\\Admin\\Desktop\\MultiShop-Microservices\\MultiShop\\src\\Frontends\\MultiShop.WebUI\\wwwroot\\assets\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\assets\\css\\bootstrap-grid.css"
     },
