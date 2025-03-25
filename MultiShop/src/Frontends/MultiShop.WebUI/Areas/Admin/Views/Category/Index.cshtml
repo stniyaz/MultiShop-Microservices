@@ -1,8 +1,41 @@
-﻿
-@{
-    ViewData["Title"] = "Index";
-    Layout = "~/Areas/Admin/Views/AdminLayout/Index.cshtml";
-}
+﻿@model List<ResultCategoryDto>
 
-<h1>Index</h1>
+<section class="content container-fluid">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="chart-box">
+                <h4>Bordered Table</h4>
+                <p>Add <code>.table-bordered</code> for borders on all sides of the table and cells.</p>
+                <div class="bs-example" data-example-id="bordered-table">
+                    <table class="table table-bordered">
+                        <thead>
+                            <tr>
+                                <th>#</th>
+                                <th>Category Name</th>
+                                <th>Products in this category</th>
+                                <th>Update</th>
+                                <th>Delete</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+                                    <th scope="row">@item.CategoryId</th>
+                                    <td>@item.CategoryName</td>
+                                    <td><a href="#" class="btn btn-warning">Products</a></td>
+                                    <td><a asp-action="update" asp-controller="category" asp-route-id="@item.CategoryId" class="btn btn-success">Update</a></td>
+                                    <td><a asp-action="delete" asp-controller="category" asp-route-id="@item.CategoryId" class="btn btn-danger">Delete</a></td>
+                                </tr>
+                            }
+
+                        </tbody>
+                    </table>
+                    <a asp-controller="category" asp-action="create" class="btn btn-primary">Create new category</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 

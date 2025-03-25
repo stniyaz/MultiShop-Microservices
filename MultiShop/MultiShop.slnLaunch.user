@@ -3,11 +3,11 @@
     "Name": "New Profile",
     "Projects": [
       {
-        "Path": "src\\IdentityServer\\MultiShop.IdentityServer\\MultiShop.IdentityServer.csproj",
+        "Path": "src\\Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj",
         "Action": "Start"
       },
       {
-        "Path": "src\\Services\\Basket\\MultiShop.Basket\\MultiShop.Basket.csproj",
+        "Path": "src\\Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj",
         "Action": "Start"
       }
     ]

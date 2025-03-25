@@ -230,3 +230,5 @@ C:\Users\Admin\Desktop\MultiShop-Microservices\MultiShop\src\Frontends\MultiShop
 C:\Users\Admin\Desktop\MultiShop-Microservices\MultiShop\src\Frontends\MultiShop.WebUI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 C:\Users\Admin\Desktop\MultiShop-Microservices\MultiShop\src\Frontends\MultiShop.WebUI\obj\Debug\net8.0\MultiShop.WebUI.csproj.AssemblyReference.cache
 C:\Users\Admin\Desktop\MultiShop-Microservices\MultiShop\src\Frontends\MultiShop.WebUI\obj\Debug\net8.0\MultiSho.490B4246.Up2Date
+C:\Users\Admin\Desktop\MultiShop-Microservices\MultiShop\src\Frontends\MultiShop.WebUI\bin\Debug\net8.0\MultiShop.DtoLayer.dll
+C:\Users\Admin\Desktop\MultiShop-Microservices\MultiShop\src\Frontends\MultiShop.WebUI\bin\Debug\net8.0\MultiShop.DtoLayer.pdb
